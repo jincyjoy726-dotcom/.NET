@@ -1,0 +1,145 @@
+# services:
+#   Service 1: The MySQL Database Container
+#   db:
+#     image: mysql:latest
+#     environment:
+#       This sets the root password for the new database instance inside the container.
+#       MYSQL_ROOT_PASSWORD: root@123.
+#       This creates an empty database for our API to use when it starts.
+#       MYSQL_DATABASE: employee_db
+#     ports:
+#       This maps port 3307 on your PC to port 3306 inside the container.
+#       You can connect to this with MySQL Workbench on port 3307.
+#       - "3307:3306"
+#     volumes:
+#       This is VERY important. It creates a persistent storage volume for the
+#       database data, so your data is not lost when you stop the containers.
+#       - employee_data:/var/lib/mysql
+
+#   Service 2: The Employee API Container
+#   employeeapi:
+#     build:
+#       context: .
+#       dockerfile: EmployeeAPI/Dockerfile
+#     ports:
+#       - "8001:8080"
+#     environment:
+#       This connection string points to our 'db' service above.
+#       Docker's internal network lets containers talk to each other by their service name.
+#       - ConnectionStrings__DefaultConnection=Server=db;Database=employee_db;User=root;Password=root@123.
+#     depends_on:
+#       This tells Docker to wait until the 'db' container is started and healthy
+#       before starting the API container. This is crucial.
+#       - db
+
+#   Service 3: The Employee MVC Container
+#   employeemvc:
+#     build:
+#       context: .
+#       dockerfile: EmployeeMVC/Dockerfile
+#     ports:
+#       - "8002:8080"
+#     environment:
+#       This tells the MVC app the internal address AND PORT of the API container.
+#       - ApiBaseUrl=http://employeeapi:8080
+#       This tells the MVC app to show detailed error pages for easier debugging.
+#       - ASPNETCORE_ENVIRONMENT=Development
+#     depends_on:
+#       - employeeapi
+
+# This defines the named volume we used for the database.
+# volumes:
+#   employee_data:
+
+
+
+# services:
+#   db:
+#     image: mysql:latest
+#     environment:
+#       MYSQL_ROOT_PASSWORD: root@123.
+#       MYSQL_DATABASE: employee_db
+#     ports:
+#       - "3307:3306"
+#     volumes:
+#       - employee_data:/var/lib/mysql
+
+#   employeeapi:
+#     build:
+#       context: .
+#       dockerfile: EmployeeAPI/Dockerfile
+#     ports:
+#       - "8001:8080"
+#     environment:
+#       --- THIS IS THE CORRECTED LINE ---
+#       - ConnectionStrings__DefaultConnection=Server=db;Database=employee_db;User=root;Password=root@123.
+#     depends_on:
+#       - db
+
+#   employeemvc:
+#     build:
+#       context: .
+#       dockerfile: EmployeeMVC/Dockerfile
+#     ports:
+#       - "8002:8080"
+#     environment:
+#       - ApiBaseUrl=http://employeeapi:8080
+#       - ASPNETCORE_ENVIRONMENT=Development
+#     depends_on:
+#       - employeeapi
+
+# volumes:
+#   employee_data:    
+
+
+services:
+  # Service 1: The MySQL Database Container with a Health Check
+  db:
+    image: mysql:latest
+    environment:
+      MYSQL_ROOT_PASSWORD: root@123.
+      MYSQL_DATABASE: employee_db
+    ports:
+      - "3307:3306"
+    volumes:
+      - employee_data:/var/lib/mysql
+    # --- THIS IS THE NEW, CRITICAL PART ---
+    healthcheck:
+      # This command repeatedly tries to connect to the MySQL server inside the container.
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-proot@123."]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    # --- END OF NEW PART ---
+
+  # Service 2: The Employee API Container
+  employeeapi:
+    build:
+      context: .
+      dockerfile: EmployeeAPI/Dockerfile
+    ports:
+      - "8001:8080"
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Database=employee_db;User=root;Password=root@123.
+    depends_on:
+      # --- THIS IS THE CHANGE ---
+      # Now, 'depends_on' will wait for the healthcheck to PASS, not just for the container to start.
+      db:
+        condition: service_healthy
+      # --- END OF CHANGE ---
+
+  # Service 3: The Employee MVC Container
+  employeemvc:
+    build:
+      context: .
+      dockerfile: EmployeeMVC/Dockerfile
+    ports:
+      - "8002:8080"
+    environment:
+      - ApiBaseUrl=http://employeeapi:8080
+      - ASPNETCORE_ENVIRONMENT=Development
+    depends_on:
+      - employeeapi
+
+volumes:
+  employee_data:    

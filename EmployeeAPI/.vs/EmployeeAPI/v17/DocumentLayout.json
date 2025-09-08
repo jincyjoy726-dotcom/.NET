@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\EmployeeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|D:\\study\\EmployeeAPI\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|d:\\study\\employeeapi\\employeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|d:\\study\\employeeapi\\employeeapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|d:\\study\\employeeapi\\employeeapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|d:\\study\\employeeapi\\employeemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|d:\\study\\employeeapi\\employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|d:\\study\\employeeapi\\employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|d:\\study\\employeeapi\\employeeapi\\migrations\\20250903035340_initialemployeecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\migrations\\20250903035340_initialemployeecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|d:\\study\\employeeapi\\employeemvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|d:\\study\\employeeapi\\employeemvc\\employeemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\employeemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|d:\\study\\employeeapi\\employeeapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|d:\\study\\employeeapi\\employeemvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|d:\\study\\employeeapi\\employeemvc\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\employees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|d:\\study\\employeeapi\\employeeapi\\employeeapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4B92C6FA-24ED-4BA2-8097-72803BD8E279}|EmployeeAPI\\EmployeeAPI.csproj|solutionrelative:employeeapi\\employeeapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|d:\\study\\employeeapi\\employeemvc\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|d:\\study\\employeeapi\\employeemvc\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|d:\\study\\employeeapi\\employeemvc\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|d:\\study\\employeeapi\\employeemvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|d:\\study\\employeeapi\\employeemvc\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\employees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|d:\\study\\employeeapi\\employeemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B950F60-8763-4470-83D4-903509270B60}|EmployeeMVC\\EmployeeMVC.csproj|solutionrelative:employeemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAPI\\appsettings.json",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeAPI\\appsettings.json",
+              "RelativeToolTip": "EmployeeAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-03T03:22:24.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Program.cs",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeAPI\\Program.cs",
+              "RelativeToolTip": "EmployeeAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:43:09.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250903035340_InitialEmployeeCreate.cs",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeAPI\\Migrations\\20250903035340_InitialEmployeeCreate.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Migrations\\20250903035340_InitialEmployeeCreate.cs",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeAPI\\Migrations\\20250903035340_InitialEmployeeCreate.cs",
+              "RelativeToolTip": "EmployeeAPI\\Migrations\\20250903035340_InitialEmployeeCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:53:41.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeAPI\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeAPI\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeAPI\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:57:34.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Program.cs",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Program.cs",
+              "RelativeToolTip": "EmployeeMVC\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAFkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T04:53:28.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:28:30.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "D:\\study\\EmployeeAPI\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAGYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-09-04T17:21:16.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Models\\Employee.cs",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T03:12:40.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Models\\Employee.cs",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeMVC\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T04:50:49.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Views\\Employees\\Details.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Views\\Employees\\Details.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\Employees\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T08:58:21.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Views\\Employees\\Create.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Views\\Employees\\Create.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\Employees\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T08:57:02.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Views\\Employees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\Employees\\Delete.cshtml",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Views\\Employees\\Delete.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\Employees\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T09:02:35.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeMVC.csproj",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeMVC\\EmployeeMVC.csproj",
+              "RelativeDocumentMoniker": "EmployeeMVC\\EmployeeMVC.csproj",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeMVC\\EmployeeMVC.csproj",
+              "RelativeToolTip": "EmployeeMVC\\EmployeeMVC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-03T10:35:28.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "EmployeeAPI\\Dockerfile",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeAPI\\Dockerfile",
+              "RelativeToolTip": "EmployeeAPI\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-04T17:14:51.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Dockerfile",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Dockerfile",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Dockerfile",
+              "RelativeToolTip": "EmployeeMVC\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-04T17:18:24.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeAPI.http",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeAPI\\EmployeeAPI.http",
+              "RelativeDocumentMoniker": "EmployeeAPI\\EmployeeAPI.http",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeAPI\\EmployeeAPI.http",
+              "RelativeToolTip": "EmployeeAPI\\EmployeeAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-09-03T13:03:53.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Views\\Employees\\Edit.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Views\\Employees\\Edit.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\Employees\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T09:00:46.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeMVC\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAwIAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T05:00:29.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Views\\Employees\\Index.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\Employees\\Index.cshtml",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Views\\Employees\\Index.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\Employees\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T05:12:51.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EmployeeMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\study\\EmployeeAPI\\EmployeeMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EmployeeMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T08:24:24.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
