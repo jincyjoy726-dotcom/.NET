@@ -1,0 +1,14 @@
+D:\study\first_task\first_task\obj\Debug\net8.0\first_task.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\first_task\first_task\obj\Debug\net8.0\first_task.AssemblyInfoInputs.cache
+D:\study\first_task\first_task\obj\Debug\net8.0\first_task.AssemblyInfo.cs
+D:\study\first_task\first_task\obj\Debug\net8.0\first_task.csproj.CoreCompileInputs.cache
+D:\study\first_task\first_task\bin\Debug\net8.0\first_task.exe
+D:\study\first_task\first_task\bin\Debug\net8.0\first_task.deps.json
+D:\study\first_task\first_task\bin\Debug\net8.0\first_task.runtimeconfig.json
+D:\study\first_task\first_task\bin\Debug\net8.0\first_task.dll
+D:\study\first_task\first_task\bin\Debug\net8.0\first_task.pdb
+D:\study\first_task\first_task\obj\Debug\net8.0\first_task.dll
+D:\study\first_task\first_task\obj\Debug\net8.0\refint\first_task.dll
+D:\study\first_task\first_task\obj\Debug\net8.0\first_task.pdb
+D:\study\first_task\first_task\obj\Debug\net8.0\first_task.genruntimeconfig.cache
+D:\study\first_task\first_task\obj\Debug\net8.0\ref\first_task.dll
