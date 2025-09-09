@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\study\\firstweb\\firstweb\\firstweb.csproj": {}
+    "D:\\.NET\\firstweb\\firstweb\\firstweb.csproj": {}
   },
   "projects": {
-    "D:\\study\\firstweb\\firstweb\\firstweb.csproj": {
+    "D:\\.NET\\firstweb\\firstweb\\firstweb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\study\\firstweb\\firstweb\\firstweb.csproj",
+        "projectUniqueName": "D:\\.NET\\firstweb\\firstweb\\firstweb.csproj",
         "projectName": "firstweb",
-        "projectPath": "D:\\study\\firstweb\\firstweb\\firstweb.csproj",
+        "projectPath": "D:\\.NET\\firstweb\\firstweb\\firstweb.csproj",
         "packagesPath": "C:\\Users\\WIIS\\.nuget\\packages\\",
-        "outputPath": "D:\\study\\firstweb\\firstweb\\obj\\",
+        "outputPath": "D:\\.NET\\firstweb\\firstweb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

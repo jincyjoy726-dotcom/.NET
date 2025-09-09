@@ -1,0 +1,35 @@
+﻿@model KeralaDirectory.Models.ManageUserRolesViewModel
+
+@{
+    ViewData["Title"] = "Manage Roles";
+}
+
+<h1>Manage Roles for @Model.UserEmail</h1>
+<hr />
+
+<form method="post">
+    <input asp-for="UserId" type="hidden" />
+    <input asp-for="UserEmail" type="hidden" />
+
+    <div class="card">
+        <div class="card-header">
+            <h2>Assign Roles</h2>
+        </div>
+        <div class="card-body">
+            @for (int i = 0; i < Model.Roles.Count; i++)
+            {
+                <div class="form-check m-1">
+                    <input asp-for="Roles[i].IsSelected" type="checkbox" class="form-check-input" />
+                    <label class="form-check-label" asp-for="Roles[i].IsSelected">
+                        @Model.Roles[i].RoleName
+                    </label>
+                    <input asp-for="Roles[i].RoleName" type="hidden" />
+                </div>
+            }
+        </div>
+        <div class="card-footer">
+            <input type="submit" value="Save" class="btn btn-primary" />
+            <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+        </div>
+    </div>
+</form>

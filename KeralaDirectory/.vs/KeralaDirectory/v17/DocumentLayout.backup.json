@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\KeralaDirectory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\models\\manageuserrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\models\\manageuserrolesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\views\\admin\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\views\\admin\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\controllers\\homestayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\controllers\\homestayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\keraladirectory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\keraladirectory.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\dataseeder\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\dataseeder\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\models\\homestay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\models\\homestay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|d:\\study\\keraladirectory\\keraladirectory\\migrations\\20250909013701_initialcreatewithidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A7AC312-DE6B-48BB-9355-FFE95C1D3C21}|KeralaDirectory\\KeralaDirectory.csproj|solutionrelative:keraladirectory\\migrations\\20250909013701_initialcreatewithidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManageUserRolesViewModel.cs",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Models\\ManageUserRolesViewModel.cs",
+              "RelativeDocumentMoniker": "KeralaDirectory\\Models\\ManageUserRolesViewModel.cs",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Models\\ManageUserRolesViewModel.cs",
+              "RelativeToolTip": "KeralaDirectory\\Models\\ManageUserRolesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:39:14.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "KeralaDirectory\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "KeralaDirectory\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T02:36:34.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Models\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "KeralaDirectory\\Models\\UserViewModel.cs",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Models\\UserViewModel.cs",
+              "RelativeToolTip": "KeralaDirectory\\Models\\UserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:31:25.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "KeralaDirectory\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "KeralaDirectory\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:27:39.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "KeralaDirectory\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "KeralaDirectory\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-09-09T02:12:41.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KeralaDirectory\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "KeralaDirectory\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T01:47:47.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "KeralaDirectory\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "KeralaDirectory\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAEUBAAAAAAAAAAAuwFoBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T02:14:04.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManageRoles.cshtml",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Views\\Admin\\ManageRoles.cshtml",
+              "RelativeDocumentMoniker": "KeralaDirectory\\Views\\Admin\\ManageRoles.cshtml",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Views\\Admin\\ManageRoles.cshtml",
+              "RelativeToolTip": "KeralaDirectory\\Views\\Admin\\ManageRoles.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-09T02:41:16.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\DataSeeder\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "KeralaDirectory\\DataSeeder\\DbInitializer.cs",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\DataSeeder\\DbInitializer.cs",
+              "RelativeToolTip": "KeralaDirectory\\DataSeeder\\DbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:58:48.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KeralaDirectory",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\KeralaDirectory.csproj",
+              "RelativeDocumentMoniker": "KeralaDirectory\\KeralaDirectory.csproj",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\KeralaDirectory.csproj",
+              "RelativeToolTip": "KeralaDirectory\\KeralaDirectory.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-09T01:57:22.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomestaysController.cs",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Controllers\\HomestaysController.cs",
+              "RelativeDocumentMoniker": "KeralaDirectory\\Controllers\\HomestaysController.cs",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Controllers\\HomestaysController.cs",
+              "RelativeToolTip": "KeralaDirectory\\Controllers\\HomestaysController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAswA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:47:08.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250909013701_InitialCreateWithIdentity.cs",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Migrations\\20250909013701_InitialCreateWithIdentity.cs",
+              "RelativeDocumentMoniker": "KeralaDirectory\\Migrations\\20250909013701_InitialCreateWithIdentity.cs",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Migrations\\20250909013701_InitialCreateWithIdentity.cs",
+              "RelativeToolTip": "KeralaDirectory\\Migrations\\20250909013701_InitialCreateWithIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:37:02.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "KeralaDirectory\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "KeralaDirectory\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:29:01.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Homestay.cs",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Models\\Homestay.cs",
+              "RelativeDocumentMoniker": "KeralaDirectory\\Models\\Homestay.cs",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Models\\Homestay.cs",
+              "RelativeToolTip": "KeralaDirectory\\Models\\Homestay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:27:36.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Program.cs",
+              "RelativeDocumentMoniker": "KeralaDirectory\\Program.cs",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\Program.cs",
+              "RelativeToolTip": "KeralaDirectory\\Program.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwGgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T01:21:45.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\study\\KeralaDirectory\\KeralaDirectory\\appsettings.json",
+              "RelativeDocumentMoniker": "KeralaDirectory\\appsettings.json",
+              "ToolTip": "D:\\study\\KeralaDirectory\\KeralaDirectory\\appsettings.json",
+              "RelativeToolTip": "KeralaDirectory\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-09T01:20:55.277Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
