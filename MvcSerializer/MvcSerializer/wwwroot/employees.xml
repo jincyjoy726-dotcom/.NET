@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <Id>101</Id>
+    <Name>Arun Kumar</Name>
+    <Department>IT</Department>
+    <Salary>60000.00</Salary>
+  </Employee>
+  <Employee>
+    <Id>102</Id>
+    <Name>Priya Menon</Name>
+    <Department>HR</Department>
+    <Salary>45000.00</Salary>
+  </Employee>
+  <Employee>
+    <Id>103</Id>
+    <Name>Sandeep Nair</Name>
+    <Department>IT</Department>
+    <Salary>75000.00</Salary>
+  </Employee>
+</ArrayOfEmployee>

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\study\\Remoting\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE390DDB-908D-4E30-B096-9B0DCF10BDAE}|CalculatorMvc\\CalculatorMvc.csproj|d:\\study\\remoting\\calculatormvc\\controllers\\calculatorclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE390DDB-908D-4E30-B096-9B0DCF10BDAE}|CalculatorMvc\\CalculatorMvc.csproj|solutionrelative:calculatormvc\\controllers\\calculatorclientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9822BD7B-A4BA-41CA-A483-9FE11BD695E6}|Remoting\\Remoting.csproj|d:\\study\\remoting\\remoting\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9822BD7B-A4BA-41CA-A483-9FE11BD695E6}|Remoting\\Remoting.csproj|solutionrelative:remoting\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE390DDB-908D-4E30-B096-9B0DCF10BDAE}|CalculatorMvc\\CalculatorMvc.csproj|d:\\study\\remoting\\calculatormvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE390DDB-908D-4E30-B096-9B0DCF10BDAE}|CalculatorMvc\\CalculatorMvc.csproj|solutionrelative:calculatormvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE390DDB-908D-4E30-B096-9B0DCF10BDAE}|CalculatorMvc\\CalculatorMvc.csproj|d:\\study\\remoting\\calculatormvc\\views\\calculatorclient\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE390DDB-908D-4E30-B096-9B0DCF10BDAE}|CalculatorMvc\\CalculatorMvc.csproj|solutionrelative:calculatormvc\\views\\calculatorclient\\result.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE390DDB-908D-4E30-B096-9B0DCF10BDAE}|CalculatorMvc\\CalculatorMvc.csproj|d:\\study\\remoting\\calculatormvc\\views\\calculatorclient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FE390DDB-908D-4E30-B096-9B0DCF10BDAE}|CalculatorMvc\\CalculatorMvc.csproj|solutionrelative:calculatormvc\\views\\calculatorclient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "D:\\study\\Remoting\\Remoting\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "Remoting\\Controllers\\CalculatorController.cs",
+              "ToolTip": "D:\\study\\Remoting\\Remoting\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "Remoting\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:10:12.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\study\\Remoting\\CalculatorMvc\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorMvc\\Program.cs",
+              "ToolTip": "D:\\study\\Remoting\\CalculatorMvc\\Program.cs",
+              "RelativeToolTip": "CalculatorMvc\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:14:24.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorClientController.cs",
+              "DocumentMoniker": "D:\\study\\Remoting\\CalculatorMvc\\Controllers\\CalculatorClientController.cs",
+              "RelativeDocumentMoniker": "CalculatorMvc\\Controllers\\CalculatorClientController.cs",
+              "ToolTip": "D:\\study\\Remoting\\CalculatorMvc\\Controllers\\CalculatorClientController.cs",
+              "RelativeToolTip": "CalculatorMvc\\Controllers\\CalculatorClientController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T12:17:23.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\study\\Remoting\\CalculatorMvc\\Views\\CalculatorClient\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalculatorMvc\\Views\\CalculatorClient\\Index.cshtml",
+              "ToolTip": "D:\\study\\Remoting\\CalculatorMvc\\Views\\CalculatorClient\\Index.cshtml",
+              "RelativeToolTip": "CalculatorMvc\\Views\\CalculatorClient\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T12:20:56.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Result.cshtml",
+              "DocumentMoniker": "D:\\study\\Remoting\\CalculatorMvc\\Views\\CalculatorClient\\Result.cshtml",
+              "RelativeDocumentMoniker": "CalculatorMvc\\Views\\CalculatorClient\\Result.cshtml",
+              "ToolTip": "D:\\study\\Remoting\\CalculatorMvc\\Views\\CalculatorClient\\Result.cshtml",
+              "RelativeToolTip": "CalculatorMvc\\Views\\CalculatorClient\\Result.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-17T12:22:36.033Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

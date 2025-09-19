@@ -1,0 +1,39 @@
+﻿@model List<StudentRecord.Models.Student>
+@{
+    ViewData["Title"] = "Students";
+}
+## All Students
+
+<p>
+    <a asp-action="Create">Add new student</a> |
+    <a asp-action="Search">Search by Roll</a>
+</p>
+
+@if (Model == null || Model.Count == 0)
+{
+    <p>No students found.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Roll</th>
+                <th>Name</th>
+                <th>Marks</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var s in Model)
+            {
+                <tr>
+                    <td>@s.RollNumber</td>
+                    <td>@s.Name</td>
+                    <td>@s.Marks</td>
+                    <td><a asp-action="Details" asp-route-id="@s.RollNumber">Details</a></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

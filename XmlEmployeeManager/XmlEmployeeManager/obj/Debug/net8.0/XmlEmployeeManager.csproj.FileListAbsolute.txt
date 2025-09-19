@@ -1,0 +1,15 @@
+D:\study\XmlEmployeeManager\XmlEmployeeManager\bin\Debug\net8.0\employees.xml
+D:\study\XmlEmployeeManager\XmlEmployeeManager\bin\Debug\net8.0\XmlEmployeeManager.exe
+D:\study\XmlEmployeeManager\XmlEmployeeManager\bin\Debug\net8.0\XmlEmployeeManager.deps.json
+D:\study\XmlEmployeeManager\XmlEmployeeManager\bin\Debug\net8.0\XmlEmployeeManager.runtimeconfig.json
+D:\study\XmlEmployeeManager\XmlEmployeeManager\bin\Debug\net8.0\XmlEmployeeManager.dll
+D:\study\XmlEmployeeManager\XmlEmployeeManager\bin\Debug\net8.0\XmlEmployeeManager.pdb
+D:\study\XmlEmployeeManager\XmlEmployeeManager\obj\Debug\net8.0\XmlEmployeeManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\XmlEmployeeManager\XmlEmployeeManager\obj\Debug\net8.0\XmlEmployeeManager.AssemblyInfoInputs.cache
+D:\study\XmlEmployeeManager\XmlEmployeeManager\obj\Debug\net8.0\XmlEmployeeManager.AssemblyInfo.cs
+D:\study\XmlEmployeeManager\XmlEmployeeManager\obj\Debug\net8.0\XmlEmployeeManager.csproj.CoreCompileInputs.cache
+D:\study\XmlEmployeeManager\XmlEmployeeManager\obj\Debug\net8.0\XmlEmployeeManager.dll
+D:\study\XmlEmployeeManager\XmlEmployeeManager\obj\Debug\net8.0\refint\XmlEmployeeManager.dll
+D:\study\XmlEmployeeManager\XmlEmployeeManager\obj\Debug\net8.0\XmlEmployeeManager.pdb
+D:\study\XmlEmployeeManager\XmlEmployeeManager\obj\Debug\net8.0\XmlEmployeeManager.genruntimeconfig.cache
+D:\study\XmlEmployeeManager\XmlEmployeeManager\obj\Debug\net8.0\ref\XmlEmployeeManager.dll

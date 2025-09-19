@@ -1,0 +1,35 @@
+﻿@model IEnumerable<MvcSerializer.Models.Employee>
+
+@{
+    ViewData["Title"] = "Deserialized Employees";
+}
+
+<h1>Deserialized Employee Data</h1>
+<p>This data was read directly from the <strong>employees.xml</strong> file.</p>
+<hr />
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Department</th>
+            <th>Salary</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var employee in Model)
+        {
+            <tr>
+                <td>@employee.Id</td>
+                <td>@employee.Name</td>
+                <td>@employee.Department</td>
+                <td>@employee.Salary.ToString("C")</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p>
+    <a asp-action="Index" class="btn btn-secondary">Back to Main</a>
+</p>

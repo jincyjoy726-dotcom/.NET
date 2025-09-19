@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<employees>
+	<employee id="101">
+		<Name>Jincy Joy</Name>
+		<Department>IT</Department>
+		<Salary>60000.00</Salary>
+		<JoiningDate>2021-05-20</JoiningDate>
+	</employee>
+	<employee id="102">
+		<Name>Ruksana</Name>
+		<Department>HR</Department>
+		<Salary>45000.00</Salary>
+		<JoiningDate>2019-11-15</JoiningDate>
+	</employee>
+	<employee id="103">
+		<Name>Amala</Name>
+		<Department>IT</Department>
+		<Salary>75000.00</Salary>
+		<JoiningDate>2020-01-02</JoiningDate>
+	</employee>
+	<employee id="104">
+		<Name>Anandhu</Name>
+		<Department>Finance</Department>
+		<Salary>52000.00</Salary>
+		<JoiningDate>2021-08-01</JoiningDate>
+	</employee>
+	<employee id="105">
+		<Name>madhav</Name>
+		<Department>IT</Department>
+		<Salary>48000.00</Salary>
+		<JoiningDate>2018-03-12</JoiningDate>
+	</employee>
+	<employee id="106">
+		<Name>arjun</Name>
+		<Department>IT</Department>
+		<Salary>48000.00</Salary>
+		<JoiningDate>2021-03-12</JoiningDate>
+	</employee>
+</employees>

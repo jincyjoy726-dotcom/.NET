@@ -1,0 +1,16 @@
+﻿@{
+    Layout = null;
+}
+## Calculator
+<form asp-action="Add" method="post">
+    <input type="number" name="a" required /> +
+    <input type="number" name="b" required />
+    <button type="submit">Add</button>
+</form>
+
+<form asp-action="Subtract" method="post" style="margin-top:10px;">
+    <input type="number" name="a" required /> -
+    <input type="number" name="b" required />
+    <button type="submit">Subtract</button>
+
+</form>

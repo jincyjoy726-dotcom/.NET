@@ -1,0 +1,62 @@
+﻿@model IEnumerable<HospitalManagement.Models.Patient>
+
+@{
+    ViewData["Title"] = "Patient Records";
+}
+
+<h1>Patient Records</h1>
+
+@* This link to create a new patient will ONLY be visible to users in the "Doctor" role *@
+@if (User.IsInRole("Doctor"))
+{
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Admit New Patient</a>
+    </p>
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Disease</th>
+            <th>Admission Date</th>
+            <th>Age</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Email)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Disease)
+                </td>
+                <td>
+                    @item.AdmissionDate.ToShortDateString()
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Age)
+                </td>
+                <td>
+                    @* Doctors see all actions, Nurses only see Details *@
+                    @if (User.IsInRole("Doctor"))
+                    {
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">Edit</a>
+                    }
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">Details</a>
+                    @if (User.IsInRole("Doctor"))
+                    {
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

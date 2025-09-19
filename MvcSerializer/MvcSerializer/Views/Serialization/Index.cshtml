@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "XML Serialization";
+}
+
+<h1>XML Serialization and Deserialization</h1>
+<hr />
+
+@* This will display any success or error message from the controller *@
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-info" role="alert">
+        @TempData["Message"]
+    </div>
+}
+
+<div class="d-flex gap-3">
+    
+    <form asp-controller="Serialization" asp-action="Serialize" method="post">
+        <button type="submit" class="btn btn-primary">1. Serialize List to XML</button>
+    </form>
+
+    
+    <form asp-controller="Serialization" asp-action="Deserialize" method="post">
+        <button type="submit" class="btn btn-success">2. Deserialize XML and Display</button>
+    </form>
+</div>

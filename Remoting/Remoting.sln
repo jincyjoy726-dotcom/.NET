@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remoting", "Remoting\Remoting.csproj", "{9822BD7B-A4BA-41CA-A483-9FE11BD695E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorMvc", "CalculatorMvc\CalculatorMvc.csproj", "{FE390DDB-908D-4E30-B096-9B0DCF10BDAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9822BD7B-A4BA-41CA-A483-9FE11BD695E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9822BD7B-A4BA-41CA-A483-9FE11BD695E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9822BD7B-A4BA-41CA-A483-9FE11BD695E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9822BD7B-A4BA-41CA-A483-9FE11BD695E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE390DDB-908D-4E30-B096-9B0DCF10BDAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE390DDB-908D-4E30-B096-9B0DCF10BDAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE390DDB-908D-4E30-B096-9B0DCF10BDAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE390DDB-908D-4E30-B096-9B0DCF10BDAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B12C1FA9-1470-46E6-A4DB-41583A376F2B}
+	EndGlobalSection
+EndGlobal
